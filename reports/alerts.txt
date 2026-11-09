@@ -1,0 +1,13 @@
+SOC FAILED LOGIN DETECTION REPORT
+========================================
+
+Total failed logins: 9
+Unique source IPs: 3
+
+FAILED LOGIN COUNTS BY IP
+192.168.1.10: 5
+203.0.113.25: 3
+198.51.100.12: 1
+
+SECURITY ALERTS
+[HIGH] Possible brute-force activity | IP: 192.168.1.10 | Failed attempts: 5
